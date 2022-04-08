@@ -1,0 +1,10 @@
+[Plugin]
+Name = FuzzyWuzzy TTI
+Version = 1.0.0
+License = MIT
+URL = https://github.com/aaronchantrill/Naomi_tti_FuzzyWuzzy.git
+Description = Naomi Text to Intent parser using FuzzyWuzzy to calculate Levenshtein distances
+
+[Author]
+Name = Naomi Project
+URL = https://projectnaomi.com/
